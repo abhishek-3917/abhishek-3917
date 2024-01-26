@@ -2,8 +2,8 @@
 - 👀 I’m interested in gaming and coding
 - 🌱 I’m currently learning C++ and pursuing B.tech
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: instagram: __abhishek20_
-- 😄 Pronouns: he/him
+- 📫 How to reach me:
+-  Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
